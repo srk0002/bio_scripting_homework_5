@@ -1,0 +1,20 @@
+Date:
+03:47PM Feb 24, 2020
+ 
+Logged-in Users:
+asndcy aubcls66 aubcls91 aubcls93 aubmes aubmmw aubszb uahapm uahkxc ualanv ualcls22 ualljq ualljq ualmab ualmab ualprj ualpss ualyxs usabjh usadxh usasyb
+ 
+System Uptime:
+ 15:47:08 up 68 days, 23:11, 21 users,  load average: 0.05, 0.17, 0.25
+
+------------------------------------------------------------
+One Hour Later
+Date:
+04:47PM Feb 24, 2020
+ 
+Logged-in Users:
+asndcy aubcls57 aubcls64 aubcls65 aubcls66 aubcls66 aubcls72 aubcls86 aubcls91 aubcls92 aubcls93 aubcls96 aubcls98 aubmes aubmmw aubrzr aubsrs aubszb uabcls07 uabcls08 uabcls12 uahkxc ualanv ualcls22 ualljq ualljq ualmab ualmab ualprj ualpss ualyxs usadxh
+ 
+System Uptime:
+ 16:47:08 up 69 days, 11 min, 32 users,  load average: 0.05, 0.71, 0.82
+ 
