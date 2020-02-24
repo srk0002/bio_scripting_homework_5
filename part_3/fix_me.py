@@ -16,8 +16,10 @@ print("You entered", b, "which is a", type(b))
 #######################################################################
 
 print("What is", a, "now?", type(a))
-print("What is", b, "now?", type(a))
+print("What is", b, "now?", type(b))
 
+a = int(a)
+b = int(b)
 
 total = a + b
 print("a + b =", total, ", which is a", type(total))
@@ -74,7 +76,7 @@ floor_quotient = a // b
 print("a // b =", floor_quotient, ", which is a", type(floor_quotient))
 
 remainder = a % b
-print("a % b =", remainder, ", which is a," type(remainder))
+print("a % b =", remainder, ", which is a", type(remainder))
 
 power = a ** b
 print("a ** b =",
